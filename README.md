@@ -1,27 +1,31 @@
 # FileSort
 
-Final project for Stanford University's 'Code In Place' online
-learning course.
+FileSort organizes large collection of unsorted photos.
 
-FileSort is a simple utility script, with large sets of files in an
-unsorted/unorganized folder. Initially created to handle large folders
-of just photos taken over many months/years (eg, most peoples personal
-devices).
+Digital photography makes it easy to take and retake a shot until it's
+"just right". But the more photos you take, the harder it gets to keep
+your "digital darkroom" in good order!
 
-Generally the use case is for when a User is taking those photos/files
-off a device, set of memory cards, from a Download folder/etc, and then
-wanting to put those sorted files, on a backup hard drive, or some other
-media use case.
+`FileSort` is a simple utility script that I wrote as part of Stanford
+University's 'Code In Place' online learning course. You can pass a
+folder of photos to `FileSort` and it will help order your collection.
+Right now, ordering is strictly by date, but I'm intending to add other
+sort options over time.
 
 ## Usage
-Can be started from comment line as 'python3 file_sort.py' ; the script
-itself will prompt the User for information, but at any given time the
-User has the option to enter "Q" or "q" to quit.
+
+`FileSort` requires [Python3](https://www.python.org/downloads/).
+
+From the command line, run `python3 file_sort.py` and respond to the
+prompts.
+
+Press "Q" or "q" to quit at any time.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue
+
+Pull requests are welcome! For major changes, please open an issue
 first to discuss what you would like to change.
 
-
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
