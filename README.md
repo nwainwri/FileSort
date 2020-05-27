@@ -21,6 +21,11 @@ prompts.
 
 Press "Q" or "q" to quit at any time.
 
+###UI and Output
+![Finished UI](UI.png)
+
+![Finalized Folders](final.png)
+
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue
