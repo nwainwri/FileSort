@@ -21,7 +21,8 @@ prompts.
 
 Press "Q" or "q" to quit at any time.
 
-###UI and Output
+### UI and Output
+
 ![Finished UI](UI.png)
 
 ![Finalized Folders](final.png)
